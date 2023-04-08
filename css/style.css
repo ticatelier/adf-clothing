@@ -1,0 +1,19 @@
+*{
+	margin: 0px !important;
+	padding  :0 px;
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+}
+
+.navbar{
+	background-color:green !important;
+	color: white !important;
+}
+
+.text-white{
+	color: white !important;
+}
+
